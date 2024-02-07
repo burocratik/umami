@@ -10,7 +10,7 @@ A detailed getting started guide can be found at [https://umami.is/docs/](https:
 
 ### Requirements
 
-- A server with Node.js version 16.13 or newer
+- A server with Node.js version 12 or newer
 - A database. Umami supports [MySQL](https://www.mysql.com/) and [Postgresql](https://www.postgresql.org/) databases.
 
 ### Install Yarn
@@ -36,7 +36,6 @@ DATABASE_URL=connection-url
 ```
 
 The connection url is in the following format:
-
 ```
 postgresql://username:mypassword@localhost:5432/mydb
 
@@ -49,7 +48,7 @@ mysql://username:mypassword@localhost:3306/mydb
 yarn build
 ```
 
-The build step will also create tables in your database if you ae installing for the first time. It will also create a login user with username **admin** and password **umami**.
+The build step will also create tables in your database if you ae installing for the first time. It will also create a login account with username **admin** and password **umami**.
 
 ### Start the application
 
@@ -66,19 +65,17 @@ or change the [port](https://nextjs.org/docs/api-reference/cli#production) to se
 To build the umami container and start up a Postgres database, run:
 
 ```bash
-docker compose up -d
+docker compose up
 ```
 
 Alternatively, to pull just the Umami Docker image with PostgreSQL support:
-
 ```bash
-docker pull ghcr.io/umami-software/umami:postgresql-latest
+docker pull docker.umami.dev/umami-software/umami:postgresql-latest
 ```
 
 Or with MySQL support:
-
 ```bash
-docker pull ghcr.io/umami-software/umami:mysql-latest
+docker pull docker.umami.dev/umami-software/umami:mysql-latest
 ```
 
 ## Getting updates

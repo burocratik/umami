@@ -1,10 +1,9 @@
-/* eslint-disable no-console */
 const fs = require('fs-extra');
 const path = require('path');
 const https = require('https');
 const chalk = require('chalk');
 
-const src = path.resolve(__dirname, '../src/lang');
+const src = path.resolve(__dirname, '../lang');
 const dest = path.resolve(__dirname, '../public/intl/language');
 const files = fs.readdirSync(src);
 

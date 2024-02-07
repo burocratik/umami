@@ -13,9 +13,9 @@ const runQuery = async query => {
   });
 };
 
-const updateUserByUsername = (username, data) => {
+const updateAccountByUsername = (username, data) => {
   return runQuery(
-    prisma.user.update({
+    prisma.account.update({
       where: {
         username,
       },
@@ -26,7 +26,7 @@ const updateUserByUsername = (username, data) => {
 
 const changePassword = async (username, newPassword) => {
   const password = hashPassword(newPassword);
-  return updateUserByUsername(username, { password });
+  return updateAccountByUsername(username, { password });
 };
 
 const getUsernameAndPassword = async () => {
@@ -40,7 +40,7 @@ const getUsernameAndPassword = async () => {
     questions.push({
       type: 'text',
       name: 'username',
-      message: 'Enter user to change password',
+      message: 'Enter account to change password',
     });
   }
   if (!password) {
@@ -84,7 +84,7 @@ const getUsernameAndPassword = async () => {
     console.log('Password changed for user', chalk.greenBright(username));
   } catch (error) {
     if (error.meta.cause.includes('Record to update not found')) {
-      console.log('User not found:', chalk.redBright(username));
+      console.log('Account not found:', chalk.redBright(username));
     } else {
       throw error;
     }

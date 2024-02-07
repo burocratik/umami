@@ -1,32 +1,14 @@
 {
-  "label.access-code": [
+  "label.accounts": [
     {
       "type": 0,
-      "value": "Access code"
+      "value": "حساب‌ها"
     }
   ],
-  "label.actions": [
+  "label.add-account": [
     {
       "type": 0,
-      "value": "اقدامات"
-    }
-  ],
-  "label.activity-log": [
-    {
-      "type": 0,
-      "value": "Activity log"
-    }
-  ],
-  "label.add": [
-    {
-      "type": 0,
-      "value": "Add"
-    }
-  ],
-  "label.add-description": [
-    {
-      "type": 0,
-      "value": "Add description"
+      "value": "افزودن حساب"
     }
   ],
   "label.add-website": [
@@ -35,16 +17,10 @@
       "value": "افزودن وب‌سایت"
     }
   ],
-  "label.admin": [
+  "label.administrator": [
     {
       "type": 0,
       "value": "مدیر"
-    }
-  ],
-  "label.after": [
-    {
-      "type": 0,
-      "value": "After"
     }
   ],
   "label.all": [
@@ -59,58 +35,16 @@
       "value": "همه زمان"
     }
   ],
-  "label.analytics": [
+  "label.all-websites": [
     {
       "type": 0,
-      "value": "Analytics"
-    }
-  ],
-  "label.average": [
-    {
-      "type": 0,
-      "value": "Average"
-    }
-  ],
-  "label.average-visit-time": [
-    {
-      "type": 0,
-      "value": "میانگین زمان بازدید"
+      "value": "همه‌ی وب‌سایت‌ها"
     }
   ],
   "label.back": [
     {
       "type": 0,
       "value": "برگشت"
-    }
-  ],
-  "label.before": [
-    {
-      "type": 0,
-      "value": "Before"
-    }
-  ],
-  "label.bounce-rate": [
-    {
-      "type": 0,
-      "value": "نرخ Bounce"
-    }
-  ],
-  "label.breakdown": [
-    {
-      "type": 0,
-      "value": "Breakdown"
-    }
-  ],
-  "label.browser": [
-    {
-      "type": 0,
-      "value": "Browser"
-    }
-  ],
-  "label.browsers": [
-    {
-      "type": 0,
-      "value": "مروگرها"
     }
   ],
   "label.cancel": [
@@ -125,88 +59,16 @@
       "value": "تغییر رمز"
     }
   ],
-  "label.cities": [
-    {
-      "type": 0,
-      "value": "Cities"
-    }
-  ],
-  "label.city": [
-    {
-      "type": 0,
-      "value": "City"
-    }
-  ],
-  "label.clear-all": [
-    {
-      "type": 0,
-      "value": "Clear all"
-    }
-  ],
-  "label.confirm": [
-    {
-      "type": 0,
-      "value": "Confirm"
-    }
-  ],
   "label.confirm-password": [
     {
       "type": 0,
       "value": "تایید رمز"
     }
   ],
-  "label.contains": [
+  "label.copy-to-clipboard": [
     {
       "type": 0,
-      "value": "Contains"
-    }
-  ],
-  "label.continue": [
-    {
-      "type": 0,
-      "value": "Continue"
-    }
-  ],
-  "label.countries": [
-    {
-      "type": 0,
-      "value": "کشورها"
-    }
-  ],
-  "label.country": [
-    {
-      "type": 0,
-      "value": "Country"
-    }
-  ],
-  "label.create": [
-    {
-      "type": 0,
-      "value": "Create"
-    }
-  ],
-  "label.create-report": [
-    {
-      "type": 0,
-      "value": "Create report"
-    }
-  ],
-  "label.create-team": [
-    {
-      "type": 0,
-      "value": "Create team"
-    }
-  ],
-  "label.create-user": [
-    {
-      "type": 0,
-      "value": "Create user"
-    }
-  ],
-  "label.created": [
-    {
-      "type": 0,
-      "value": "Created"
+      "value": "کپی به حافظه"
     }
   ],
   "label.current-password": [
@@ -227,28 +89,10 @@
       "value": "داشبورد"
     }
   ],
-  "label.data": [
-    {
-      "type": 0,
-      "value": "Data"
-    }
-  ],
-  "label.date": [
-    {
-      "type": 0,
-      "value": "Date"
-    }
-  ],
   "label.date-range": [
     {
       "type": 0,
       "value": "محدوده‌ی تاریخ"
-    }
-  ],
-  "label.day": [
-    {
-      "type": 0,
-      "value": "Day"
     }
   ],
   "label.default-date-range": [
@@ -263,16 +107,10 @@
       "value": "حذف"
     }
   ],
-  "label.delete-team": [
+  "label.delete-account": [
     {
       "type": 0,
-      "value": "Delete team"
-    }
-  ],
-  "label.delete-user": [
-    {
-      "type": 0,
-      "value": "Delete user"
+      "value": "حذف حساب"
     }
   ],
   "label.delete-website": [
@@ -281,46 +119,10 @@
       "value": "حذف وب‌سایت"
     }
   ],
-  "label.description": [
-    {
-      "type": 0,
-      "value": "Description"
-    }
-  ],
-  "label.desktop": [
-    {
-      "type": 0,
-      "value": "دسکتاپ"
-    }
-  ],
-  "label.details": [
-    {
-      "type": 0,
-      "value": "Details"
-    }
-  ],
-  "label.device": [
-    {
-      "type": 0,
-      "value": "Device"
-    }
-  ],
-  "label.devices": [
-    {
-      "type": 0,
-      "value": "دستگاه‌ها"
-    }
-  ],
   "label.dismiss": [
     {
       "type": 0,
       "value": "رد کردن"
-    }
-  ],
-  "label.does-not-contain": [
-    {
-      "type": 0,
-      "value": "Does not contain"
     }
   ],
   "label.domain": [
@@ -329,22 +131,22 @@
       "value": "دامنه"
     }
   ],
-  "label.dropoff": [
-    {
-      "type": 0,
-      "value": "Dropoff"
-    }
-  ],
   "label.edit": [
     {
       "type": 0,
       "value": "ویرایش"
     }
   ],
-  "label.edit-dashboard": [
+  "label.edit-account": [
     {
       "type": 0,
-      "value": "Edit dashboard"
+      "value": "ویرایش حساب"
+    }
+  ],
+  "label.edit-website": [
+    {
+      "type": 0,
+      "value": "ویرایش وب‌سایت"
     }
   ],
   "label.enable-share-url": [
@@ -353,154 +155,22 @@
       "value": "فعال کردن اشتراک گذاری URL"
     }
   ],
-  "label.event": [
+  "label.invalid": [
     {
       "type": 0,
-      "value": "Event"
+      "value": "نامعتبر"
     }
   ],
-  "label.event-data": [
+  "label.invalid-domain": [
     {
       "type": 0,
-      "value": "Event data"
-    }
-  ],
-  "label.events": [
-    {
-      "type": 0,
-      "value": "رویدادها"
-    }
-  ],
-  "label.false": [
-    {
-      "type": 0,
-      "value": "False"
-    }
-  ],
-  "label.field": [
-    {
-      "type": 0,
-      "value": "Field"
-    }
-  ],
-  "label.fields": [
-    {
-      "type": 0,
-      "value": "Fields"
-    }
-  ],
-  "label.filter": [
-    {
-      "type": 0,
-      "value": "Filter"
-    }
-  ],
-  "label.filter-combined": [
-    {
-      "type": 0,
-      "value": "ترکیب شده"
-    }
-  ],
-  "label.filter-raw": [
-    {
-      "type": 0,
-      "value": "خام"
-    }
-  ],
-  "label.filters": [
-    {
-      "type": 0,
-      "value": "Filters"
-    }
-  ],
-  "label.funnel": [
-    {
-      "type": 0,
-      "value": "Funnel"
-    }
-  ],
-  "label.funnel-description": [
-    {
-      "type": 0,
-      "value": "Understand the conversion and drop-off rate of users."
-    }
-  ],
-  "label.greater-than": [
-    {
-      "type": 0,
-      "value": "Greater than"
-    }
-  ],
-  "label.greater-than-equals": [
-    {
-      "type": 0,
-      "value": "Greater than or equals"
-    }
-  ],
-  "label.insights": [
-    {
-      "type": 0,
-      "value": "Insights"
-    }
-  ],
-  "label.insights-description": [
-    {
-      "type": 0,
-      "value": "Dive deeper into your data by using segments and filters."
-    }
-  ],
-  "label.is": [
-    {
-      "type": 0,
-      "value": "Is"
-    }
-  ],
-  "label.is-not": [
-    {
-      "type": 0,
-      "value": "Is not"
-    }
-  ],
-  "label.is-not-set": [
-    {
-      "type": 0,
-      "value": "Is not set"
-    }
-  ],
-  "label.is-set": [
-    {
-      "type": 0,
-      "value": "Is set"
-    }
-  ],
-  "label.join": [
-    {
-      "type": 0,
-      "value": "Join"
-    }
-  ],
-  "label.join-team": [
-    {
-      "type": 0,
-      "value": "Join team"
+      "value": "دامنه‌ی نامعتبر"
     }
   ],
   "label.language": [
     {
       "type": 0,
       "value": "زبان"
-    }
-  ],
-  "label.languages": [
-    {
-      "type": 0,
-      "value": "زبان‌ها"
-    }
-  ],
-  "label.laptop": [
-    {
-      "type": 0,
-      "value": "لپ‌تاپ"
     }
   ],
   "label.last-days": [
@@ -531,28 +201,14 @@
       "value": " ساعت گذشته"
     }
   ],
-  "label.leave": [
+  "label.logged-in-as": [
     {
       "type": 0,
-      "value": "Leave"
-    }
-  ],
-  "label.leave-team": [
+      "value": "وارد شده به عنوان "
+    },
     {
-      "type": 0,
-      "value": "Leave team"
-    }
-  ],
-  "label.less-than": [
-    {
-      "type": 0,
-      "value": "Less than"
-    }
-  ],
-  "label.less-than-equals": [
-    {
-      "type": 0,
-      "value": "Less than or equals"
+      "type": 1,
+      "value": "username"
     }
   ],
   "label.login": [
@@ -567,40 +223,10 @@
       "value": "خروج"
     }
   ],
-  "label.max": [
-    {
-      "type": 0,
-      "value": "Max"
-    }
-  ],
-  "label.members": [
-    {
-      "type": 0,
-      "value": "Members"
-    }
-  ],
-  "label.min": [
-    {
-      "type": 0,
-      "value": "Min"
-    }
-  ],
-  "label.mobile": [
-    {
-      "type": 0,
-      "value": "موبایل"
-    }
-  ],
   "label.more": [
     {
       "type": 0,
       "value": "بیشتر"
-    }
-  ],
-  "label.my-websites": [
-    {
-      "type": 0,
-      "value": "My websites"
     }
   ],
   "label.name": [
@@ -618,19 +244,7 @@
   "label.none": [
     {
       "type": 0,
-      "value": "None"
-    }
-  ],
-  "label.os": [
-    {
-      "type": 0,
-      "value": "OS"
-    }
-  ],
-  "label.overview": [
-    {
-      "type": 0,
-      "value": "Overview"
+      "value": "هیچ"
     }
   ],
   "label.owner": [
@@ -639,56 +253,16 @@
       "value": "ایجاد شده توسط"
     }
   ],
-  "label.page-of": [
-    {
-      "type": 0,
-      "value": "Page "
-    },
-    {
-      "type": 1,
-      "value": "current"
-    },
-    {
-      "type": 0,
-      "value": " of "
-    },
-    {
-      "type": 1,
-      "value": "total"
-    }
-  ],
-  "label.page-views": [
-    {
-      "type": 0,
-      "value": "بازدید صفحه"
-    }
-  ],
-  "label.pageTitle": [
-    {
-      "type": 0,
-      "value": "Page title"
-    }
-  ],
-  "label.pages": [
-    {
-      "type": 0,
-      "value": "صفحه‌ها"
-    }
-  ],
   "label.password": [
     {
       "type": 0,
       "value": "رمز"
     }
   ],
-  "label.powered-by": [
+  "label.passwords-dont-match": [
     {
       "type": 0,
-      "value": "قدرت گرفته توسط "
-    },
-    {
-      "type": 1,
-      "value": "name"
+      "value": "رمزها یکسان نیستند"
     }
   ],
   "label.profile": [
@@ -697,76 +271,22 @@
       "value": "پروفایل"
     }
   ],
-  "label.queries": [
-    {
-      "type": 0,
-      "value": "Queries"
-    }
-  ],
-  "label.query": [
-    {
-      "type": 0,
-      "value": "Query"
-    }
-  ],
-  "label.query-parameters": [
-    {
-      "type": 0,
-      "value": "Query parameters"
-    }
-  ],
   "label.realtime": [
     {
       "type": 0,
       "value": "آمار زنده"
     }
   ],
-  "label.referrer": [
+  "label.realtime-logs": [
     {
       "type": 0,
-      "value": "Referrer"
-    }
-  ],
-  "label.referrers": [
-    {
-      "type": 0,
-      "value": "ارجاع دهندگان"
+      "value": "لاگ‌های زنده"
     }
   ],
   "label.refresh": [
     {
       "type": 0,
       "value": "به‌روزرسانی"
-    }
-  ],
-  "label.regenerate": [
-    {
-      "type": 0,
-      "value": "Regenerate"
-    }
-  ],
-  "label.region": [
-    {
-      "type": 0,
-      "value": "Region"
-    }
-  ],
-  "label.regions": [
-    {
-      "type": 0,
-      "value": "Regions"
-    }
-  ],
-  "label.remove": [
-    {
-      "type": 0,
-      "value": "Remove"
-    }
-  ],
-  "label.reports": [
-    {
-      "type": 0,
-      "value": "Reports"
     }
   ],
   "label.required": [
@@ -787,64 +307,10 @@
       "value": "بازنشانی آمار"
     }
   ],
-  "label.retention": [
-    {
-      "type": 0,
-      "value": "Retention"
-    }
-  ],
-  "label.retention-description": [
-    {
-      "type": 0,
-      "value": "Measure your website stickiness by tracking how often users return."
-    }
-  ],
-  "label.role": [
-    {
-      "type": 0,
-      "value": "Role"
-    }
-  ],
-  "label.run-query": [
-    {
-      "type": 0,
-      "value": "Run query"
-    }
-  ],
   "label.save": [
     {
       "type": 0,
       "value": "ذخیره"
-    }
-  ],
-  "label.screens": [
-    {
-      "type": 0,
-      "value": "Screens"
-    }
-  ],
-  "label.search": [
-    {
-      "type": 0,
-      "value": "Search"
-    }
-  ],
-  "label.select-date": [
-    {
-      "type": 0,
-      "value": "Select date"
-    }
-  ],
-  "label.select-website": [
-    {
-      "type": 0,
-      "value": "Select website"
-    }
-  ],
-  "label.sessions": [
-    {
-      "type": 0,
-      "value": "Sessions"
     }
   ],
   "label.settings": [
@@ -863,66 +329,6 @@
     {
       "type": 0,
       "value": "یک روز"
-    }
-  ],
-  "label.sum": [
-    {
-      "type": 0,
-      "value": "Sum"
-    }
-  ],
-  "label.tablet": [
-    {
-      "type": 0,
-      "value": "تبلت"
-    }
-  ],
-  "label.team": [
-    {
-      "type": 0,
-      "value": "Team"
-    }
-  ],
-  "label.team-guest": [
-    {
-      "type": 0,
-      "value": "Team guest"
-    }
-  ],
-  "label.team-id": [
-    {
-      "type": 0,
-      "value": "Team ID"
-    }
-  ],
-  "label.team-member": [
-    {
-      "type": 0,
-      "value": "Team member"
-    }
-  ],
-  "label.team-name": [
-    {
-      "type": 0,
-      "value": "Team name"
-    }
-  ],
-  "label.team-owner": [
-    {
-      "type": 0,
-      "value": "Team owner"
-    }
-  ],
-  "label.team-websites": [
-    {
-      "type": 0,
-      "value": "Team websites"
-    }
-  ],
-  "label.teams": [
-    {
-      "type": 0,
-      "value": "Teams"
     }
   ],
   "label.theme": [
@@ -955,34 +361,10 @@
       "value": "منطقه‌ی زمانی"
     }
   ],
-  "label.title": [
-    {
-      "type": 0,
-      "value": "Title"
-    }
-  ],
   "label.today": [
     {
       "type": 0,
       "value": "امروز"
-    }
-  ],
-  "label.toggle-charts": [
-    {
-      "type": 0,
-      "value": "Toggle charts"
-    }
-  ],
-  "label.total": [
-    {
-      "type": 0,
-      "value": "Total"
-    }
-  ],
-  "label.total-records": [
-    {
-      "type": 0,
-      "value": "Total records"
     }
   ],
   "label.tracking-code": [
@@ -991,58 +373,10 @@
       "value": "کد رهگیری"
     }
   ],
-  "label.true": [
-    {
-      "type": 0,
-      "value": "True"
-    }
-  ],
-  "label.type": [
-    {
-      "type": 0,
-      "value": "Type"
-    }
-  ],
-  "label.unique": [
-    {
-      "type": 0,
-      "value": "Unique"
-    }
-  ],
-  "label.unique-visitors": [
-    {
-      "type": 0,
-      "value": "بازدیدکننده‌های یکتا"
-    }
-  ],
   "label.unknown": [
     {
       "type": 0,
       "value": "ناشناخته"
-    }
-  ],
-  "label.untitled": [
-    {
-      "type": 0,
-      "value": "Untitled"
-    }
-  ],
-  "label.url": [
-    {
-      "type": 0,
-      "value": "URL"
-    }
-  ],
-  "label.urls": [
-    {
-      "type": 0,
-      "value": "URLs"
-    }
-  ],
-  "label.user": [
-    {
-      "type": 0,
-      "value": "User"
     }
   ],
   "label.username": [
@@ -1051,76 +385,16 @@
       "value": "نام کاربری"
     }
   ],
-  "label.users": [
-    {
-      "type": 0,
-      "value": "Users"
-    }
-  ],
-  "label.value": [
-    {
-      "type": 0,
-      "value": "Value"
-    }
-  ],
-  "label.view": [
-    {
-      "type": 0,
-      "value": "View"
-    }
-  ],
   "label.view-details": [
     {
       "type": 0,
       "value": "مشاهده‌ی جزئیات"
     }
   ],
-  "label.view-only": [
-    {
-      "type": 0,
-      "value": "View only"
-    }
-  ],
-  "label.views": [
-    {
-      "type": 0,
-      "value": "بازدید"
-    }
-  ],
-  "label.visitors": [
-    {
-      "type": 0,
-      "value": "بازدیدکننده"
-    }
-  ],
-  "label.website": [
-    {
-      "type": 0,
-      "value": "Website"
-    }
-  ],
-  "label.website-id": [
-    {
-      "type": 0,
-      "value": "Website ID"
-    }
-  ],
   "label.websites": [
     {
       "type": 0,
       "value": "وب‌سایت‌ها"
-    }
-  ],
-  "label.window": [
-    {
-      "type": 0,
-      "value": "Window"
-    }
-  ],
-  "label.yesterday": [
-    {
-      "type": 0,
-      "value": "Yesterday"
     }
   ],
   "message.active-users": [
@@ -1171,20 +445,6 @@
       "value": " را حذف کنید?"
     }
   ],
-  "message.confirm-leave": [
-    {
-      "type": 0,
-      "value": "Are you sure you want to leave "
-    },
-    {
-      "type": 1,
-      "value": "target"
-    },
-    {
-      "type": 0,
-      "value": "?"
-    }
-  ],
   "message.confirm-reset": [
     {
       "type": 0,
@@ -1199,58 +459,40 @@
       "value": " مطمئن هستید?"
     }
   ],
-  "message.delete-account": [
+  "message.copied": [
     {
       "type": 0,
-      "value": "To delete this account, type "
-    },
-    {
-      "type": 1,
-      "value": "confirmation"
-    },
-    {
-      "type": 0,
-      "value": " in the box below to confirm."
+      "value": "کپی شد!"
     }
   ],
-  "message.delete-website": [
-    {
-      "type": 0,
-      "value": "To delete this website, type "
-    },
-    {
-      "type": 1,
-      "value": "confirmation"
-    },
-    {
-      "type": 0,
-      "value": " in the box below to confirm."
-    }
-  ],
-  "message.delete-website-warning": [
+  "message.delete-warning": [
     {
       "type": 0,
       "value": "همه‌ی داده‌های مرتبط هم حذف خواهد شد."
     }
   ],
-  "message.error": [
+  "message.edit-dashboard": [
+    {
+      "type": 0,
+      "value": "ویرایش داشبورد"
+    }
+  ],
+  "message.failure": [
     {
       "type": 0,
       "value": "مشکلی پیش آمده است."
     }
   ],
-  "message.event-log": [
-    {
-      "type": 1,
-      "value": "event"
-    },
+  "message.get-share-url": [
     {
       "type": 0,
-      "value": " on "
-    },
+      "value": "دریافت URL برای اشتراک گذاری"
+    }
+  ],
+  "message.get-tracking-code": [
     {
-      "type": 1,
-      "value": "url"
+      "type": 0,
+      "value": "گرفتن کد رهگیری"
     }
   ],
   "message.go-to-settings": [
@@ -1265,165 +507,7 @@
       "value": "نام کاربری / رمز نادرست است."
     }
   ],
-  "message.invalid-domain": [
-    {
-      "type": 0,
-      "value": "دامنه‌ی نامعتبر"
-    }
-  ],
-  "message.min-password-length": [
-    {
-      "type": 0,
-      "value": "Minimum length of "
-    },
-    {
-      "type": 1,
-      "value": "n"
-    },
-    {
-      "type": 0,
-      "value": " characters"
-    }
-  ],
-  "message.new-version-available": [
-    {
-      "type": 0,
-      "value": "A new version of Umami "
-    },
-    {
-      "type": 1,
-      "value": "version"
-    },
-    {
-      "type": 0,
-      "value": " is available!"
-    }
-  ],
-  "message.no-data-available": [
-    {
-      "type": 0,
-      "value": "اطلاعاتی موجود نیست."
-    }
-  ],
-  "message.no-event-data": [
-    {
-      "type": 0,
-      "value": "No event data is available."
-    }
-  ],
-  "message.no-match-password": [
-    {
-      "type": 0,
-      "value": "رمزها یکسان نیستند"
-    }
-  ],
-  "message.no-results-found": [
-    {
-      "type": 0,
-      "value": "No results were found."
-    }
-  ],
-  "message.no-team-websites": [
-    {
-      "type": 0,
-      "value": "This team does not have any websites."
-    }
-  ],
-  "message.no-teams": [
-    {
-      "type": 0,
-      "value": "You have not created any teams."
-    }
-  ],
-  "message.no-users": [
-    {
-      "type": 0,
-      "value": "There are no users."
-    }
-  ],
-  "message.no-websites-configured": [
-    {
-      "type": 0,
-      "value": "شما هیچ وب‌سایتی را پیکربندی نکرده‌اید."
-    }
-  ],
-  "message.page-not-found": [
-    {
-      "type": 0,
-      "value": "صفحه یافت نشد."
-    }
-  ],
-  "message.reset-website": [
-    {
-      "type": 0,
-      "value": "To reset this website, type "
-    },
-    {
-      "type": 1,
-      "value": "confirmation"
-    },
-    {
-      "type": 0,
-      "value": " in the box below to confirm."
-    }
-  ],
-  "message.reset-website-warning": [
-    {
-      "type": 0,
-      "value": "تمامی آمارهای این وب‌سایت حذف خواهد شد اما tracking code بدون تغییر باقی می‌ماند."
-    }
-  ],
-  "message.saved": [
-    {
-      "type": 0,
-      "value": "با موفقیت ذخیره شد."
-    }
-  ],
-  "message.share-url": [
-    {
-      "type": 0,
-      "value": "این URL به اشتراک گذاشته شده عمومی برای "
-    },
-    {
-      "type": 1,
-      "value": "target"
-    },
-    {
-      "type": 0,
-      "value": " است."
-    }
-  ],
-  "message.team-already-member": [
-    {
-      "type": 0,
-      "value": "You are already a member of the team."
-    }
-  ],
-  "message.team-not-found": [
-    {
-      "type": 0,
-      "value": "Team not found."
-    }
-  ],
-  "message.team-websites-info": [
-    {
-      "type": 0,
-      "value": "Websites can be viewed by anyone on the team."
-    }
-  ],
-  "message.tracking-code": [
-    {
-      "type": 0,
-      "value": "کد رهگیری"
-    }
-  ],
-  "message.user-deleted": [
-    {
-      "type": 0,
-      "value": "User deleted."
-    }
-  ],
-  "message.visitor-log": [
+  "message.log.visitor": [
     {
       "type": 0,
       "value": "بازدیدکننده از کشور "
@@ -1455,6 +539,252 @@
     {
       "type": 1,
       "value": "device"
+    }
+  ],
+  "message.new-version-available": [
+    {
+      "type": 0,
+      "value": "نسخه‌ی جدید umami ("
+    },
+    {
+      "type": 1,
+      "value": "version"
+    },
+    {
+      "type": 0,
+      "value": ") موجود است!"
+    }
+  ],
+  "message.no-data-available": [
+    {
+      "type": 0,
+      "value": "اطلاعاتی موجود نیست."
+    }
+  ],
+  "message.no-websites-configured": [
+    {
+      "type": 0,
+      "value": "شما هیچ وب‌سایتی را پیکربندی نکرده‌اید."
+    }
+  ],
+  "message.page-not-found": [
+    {
+      "type": 0,
+      "value": "صفحه یافت نشد."
+    }
+  ],
+  "message.powered-by": [
+    {
+      "type": 0,
+      "value": "قدرت گرفته توسط "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "message.reset-warning": [
+    {
+      "type": 0,
+      "value": "تمامی آمارهای این وب‌سایت حذف خواهد شد اما tracking code بدون تغییر باقی می‌ماند."
+    }
+  ],
+  "message.save-success": [
+    {
+      "type": 0,
+      "value": "با موفقیت ذخیره شد."
+    }
+  ],
+  "message.share-url": [
+    {
+      "type": 0,
+      "value": "این URL به اشتراک گذاشته شده عمومی برای "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": " است."
+    }
+  ],
+  "message.toggle-charts": [
+    {
+      "type": 0,
+      "value": "Toggle charts"
+    }
+  ],
+  "message.track-stats": [
+    {
+      "type": 0,
+      "value": "برای ردیابی آمار "
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": ", کد روبرو را در قسمت "
+    },
+    {
+      "type": 1,
+      "value": "head"
+    },
+    {
+      "type": 0,
+      "value": " وب‌سایت قرار دهید."
+    }
+  ],
+  "message.type-delete": [
+    {
+      "type": 0,
+      "value": "جهت اطمینان {delete} را در کادر زیر بنویسید."
+    }
+  ],
+  "message.type-reset": [
+    {
+      "type": 0,
+      "value": "جهت اطمینان {reset} را در کادر زیر بنویسید."
+    }
+  ],
+  "metrics.actions": [
+    {
+      "type": 0,
+      "value": "اقدامات"
+    }
+  ],
+  "metrics.average-visit-time": [
+    {
+      "type": 0,
+      "value": "میانگین زمان بازدید"
+    }
+  ],
+  "metrics.bounce-rate": [
+    {
+      "type": 0,
+      "value": "نرخ Bounce"
+    }
+  ],
+  "metrics.browsers": [
+    {
+      "type": 0,
+      "value": "مروگرها"
+    }
+  ],
+  "metrics.countries": [
+    {
+      "type": 0,
+      "value": "کشورها"
+    }
+  ],
+  "metrics.device.desktop": [
+    {
+      "type": 0,
+      "value": "دسکتاپ"
+    }
+  ],
+  "metrics.device.laptop": [
+    {
+      "type": 0,
+      "value": "لپ‌تاپ"
+    }
+  ],
+  "metrics.device.mobile": [
+    {
+      "type": 0,
+      "value": "موبایل"
+    }
+  ],
+  "metrics.device.tablet": [
+    {
+      "type": 0,
+      "value": "تبلت"
+    }
+  ],
+  "metrics.devices": [
+    {
+      "type": 0,
+      "value": "دستگاه‌ها"
+    }
+  ],
+  "metrics.events": [
+    {
+      "type": 0,
+      "value": "رویدادها"
+    }
+  ],
+  "metrics.filter.combined": [
+    {
+      "type": 0,
+      "value": "ترکیب شده"
+    }
+  ],
+  "metrics.filter.raw": [
+    {
+      "type": 0,
+      "value": "خام"
+    }
+  ],
+  "metrics.languages": [
+    {
+      "type": 0,
+      "value": "زبان‌ها"
+    }
+  ],
+  "metrics.operating-systems": [
+    {
+      "type": 0,
+      "value": "سیستم‌عامل‌ها"
+    }
+  ],
+  "metrics.page-views": [
+    {
+      "type": 0,
+      "value": "بازدید صفحه"
+    }
+  ],
+  "metrics.pages": [
+    {
+      "type": 0,
+      "value": "صفحه‌ها"
+    }
+  ],
+  "metrics.query-parameters": [
+    {
+      "type": 0,
+      "value": "پارامترهای کوئری"
+    }
+  ],
+  "metrics.referrers": [
+    {
+      "type": 0,
+      "value": "ارجاع دهندگان"
+    }
+  ],
+  "metrics.screens": [
+    {
+      "type": 0,
+      "value": "نمایشگرها"
+    }
+  ],
+  "metrics.unique-visitors": [
+    {
+      "type": 0,
+      "value": "بازدیدکننده‌های یکتا"
+    }
+  ],
+  "metrics.views": [
+    {
+      "type": 0,
+      "value": "بازدید"
+    }
+  ],
+  "metrics.visitors": [
+    {
+      "type": 0,
+      "value": "بازدیدکننده"
     }
   ]
 }
