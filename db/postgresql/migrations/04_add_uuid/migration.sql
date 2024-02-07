@@ -1,5 +1,5 @@
 -- CreateExtension
--- CREATE EXTENSION IF NOT EXISTS pgcrypto;
+CREATE EXTENSION IF NOT EXISTS pgcrypto;
 
 -- AlterTable
 ALTER TABLE "account" ADD COLUMN "account_uuid" UUID NULL;
